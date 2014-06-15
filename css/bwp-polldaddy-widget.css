@@ -1,0 +1,9 @@
+/* For widget page */
+.bwp-polldaddy-widget-control p, .bwp-polldaddy-widget-control p input, #wpcontent  .bwp-polldaddy-widget-control select, #wpcontent  .bwp-polldaddy-widget-control option {
+	font-size: 1em;
+}
+
+.bwp-polldaddy-widget-control input.smallfat {
+	float: none;
+	width: 50px;
+}

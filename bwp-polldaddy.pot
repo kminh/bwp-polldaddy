@@ -1,0 +1,402 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BWP Polldaddy Polls\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-15 17:53+0700\n"
+"PO-Revision-Date: 2014-06-15 17:53+0700\n"
+"Last-Translator: Khang Minh <contact@betterwp.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/bwp-option-page/includes/class-bwp-option-page.php:80
+msgid "Plugin Configurations"
+msgstr ""
+
+#: includes/bwp-option-page/includes/class-bwp-option-page.php:503
+msgid "Save Changes"
+msgstr ""
+
+#: includes/class-bwp-framework-improved.php:211
+#, php-format
+msgid ""
+"%s requires WordPress <strong>%s</strong> or higher and PHP <strong>%s</"
+"strong> or higher. The plugin will not protected function until you update "
+"your software. Please deactivate this plugin."
+msgstr ""
+
+#: includes/class-bwp-framework-improved.php:228
+#: includes/class-bwp-framework.php:222
+msgid "Development Log"
+msgstr ""
+
+#: includes/class-bwp-framework-improved.php:228
+#: includes/class-bwp-framework.php:222
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: includes/class-bwp-framework-improved.php:228
+#: includes/class-bwp-framework.php:222
+msgid "FAQ"
+msgstr ""
+
+#: includes/class-bwp-framework-improved.php:228
+#: includes/class-bwp-framework.php:222
+msgid "Got a problem? Send me a feedback!"
+msgstr ""
+
+#: includes/class-bwp-framework-improved.php:228
+#: includes/class-bwp-framework.php:222
+msgid "Contact"
+msgstr ""
+
+#: includes/class-bwp-framework-improved.php:235
+#: includes/class-bwp-framework.php:229
+msgid ""
+"You can buy me some special coffees if you appreciate my work, thank you!"
+msgstr ""
+
+#: includes/class-bwp-framework-improved.php:249
+#: includes/class-bwp-framework.php:243
+msgid "Donate to "
+msgstr ""
+
+#: includes/class-bwp-framework-improved.php:251
+#: includes/class-bwp-framework.php:245
+msgid "One cup $5.00"
+msgstr ""
+
+#: includes/class-bwp-framework-improved.php:252
+#: includes/class-bwp-framework.php:246
+msgid "Two cups $10.00"
+msgstr ""
+
+#: includes/class-bwp-framework-improved.php:253
+#: includes/class-bwp-framework.php:247
+msgid "Five cups! $25.00"
+msgstr ""
+
+#: includes/class-bwp-framework-improved.php:254
+#: includes/class-bwp-framework.php:248
+msgid "One LL-cup!!! $50.00"
+msgstr ""
+
+#: includes/class-bwp-framework-improved.php:255
+#: includes/class-bwp-framework.php:249
+msgid "... or any amount!"
+msgstr ""
+
+#: includes/class-bwp-framework-improved.php:270
+#: includes/class-bwp-framework.php:264
+msgid "Latest updates from BetterWP.net!"
+msgstr ""
+
+#: includes/class-bwp-framework-improved.php:271
+#: includes/class-bwp-framework.php:265
+msgid "Follow me on Twitter!"
+msgstr ""
+
+#: includes/class-bwp-framework-improved.php:281
+#: includes/class-bwp-framework.php:275
+msgid "This Plugin is Proudly Sponsored By"
+msgstr ""
+
+#: includes/class-bwp-framework-improved.php:300
+#: includes/class-bwp-framework.php:294
+#, php-format
+msgid "You are using version %s!"
+msgstr ""
+
+#: includes/class-bwp-framework-improved.php:541
+#: includes/class-bwp-framework.php:467
+msgid "Settings"
+msgstr ""
+
+#: includes/class-bwp-framework.php:205
+#, php-format
+msgid ""
+"%s requires WordPress <strong>%s</strong> or higher and PHP <strong>%s</"
+"strong> or higher. The plugin will not function until you update your "
+"software. Please deactivate this plugin."
+msgstr ""
+
+#: includes/class-bwp-polldaddy-widget.php:16
+msgid "Show Polldaddy polls on your blog using widgets."
+msgstr ""
+
+#: includes/class-bwp-polldaddy-widget.php:23
+msgid "BWP Polldaddy Polls"
+msgstr ""
+
+#: includes/class-bwp-polldaddy-widget.php:31
+msgid "Polls"
+msgstr ""
+
+#: includes/class-bwp-polldaddy-widget.php:75
+msgid "<strong>Note:</strong> All inputs are optional."
+msgstr ""
+
+#: includes/class-bwp-polldaddy-widget.php:76
+msgid "Title:"
+msgstr ""
+
+#: includes/class-bwp-polldaddy-widget.php:78
+msgid "Show just one poll with ID:"
+msgstr ""
+
+#: includes/class-bwp-polldaddy-widget.php:81
+msgid "Order polls"
+msgstr ""
+
+#: includes/class-bwp-polldaddy-widget.php:83
+msgid "By poll ID"
+msgstr ""
+
+#: includes/class-bwp-polldaddy-widget.php:84
+msgid "By time of creation"
+msgstr ""
+
+#: includes/class-bwp-polldaddy-widget.php:85
+msgid "By number of responses"
+msgstr ""
+
+#: includes/class-bwp-polldaddy-widget.php:86
+msgid "Randomly"
+msgstr ""
+
+#: includes/class-bwp-polldaddy-widget.php:90
+msgid "Order them"
+msgstr ""
+
+#: includes/class-bwp-polldaddy-widget.php:92
+msgid "Descendingly"
+msgstr ""
+
+#: includes/class-bwp-polldaddy-widget.php:93
+msgid "Ascendingly"
+msgstr ""
+
+#: includes/class-bwp-polldaddy-widget.php:97
+msgid "Show at most"
+msgstr ""
+
+#: includes/class-bwp-polldaddy-widget.php:97
+msgid "poll(s) (zero for no limit)."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:156
+msgid "Better WordPress Polldaddy Polls Settings"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:234
+msgid "Better WordPress Polldaddy Polls"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:253
+msgid "Your polls will not be updated automatically."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:260
+#, php-format
+msgid "Last update time: <em><strong>%s</strong></em>."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:268
+#, php-format
+msgid ""
+"Last update was unsuccessful. Error message was: <em><strong>%s</strong></em>"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:279
+#, php-format
+msgid "Next update in approximately <em><strong>%s</strong></em>."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:287
+#, php-format
+msgid ""
+"You currently have <em><strong>%d</strong></em> cached poll(s) in database."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:304
+msgid "Could not connect to PollDaddy API host, please try again."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:308
+msgid "Could not get a response from PollDaddy, please try again."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:312
+msgid "There was a problem retrieving polls, please try again."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:316
+msgid ""
+"No polls found, please make sure that you have created at least one poll and "
+"try again."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:335
+msgid ""
+"Successfully clear cached polls and retrieve updated polls from PollDaddy."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:350 includes/class-bwp-polldaddy.php:681
+msgid "Please enter a valid API key."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:371
+msgid "A UserCode has been retrieved successfully."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:390
+#, php-format
+msgid ""
+"A UserCode could not be retrieved using provided API key: <strong>%s</"
+"strong>. Please double-check your API key and try again.<br />If this issue "
+"persists, consider <a href=\"%s\" target=\"_blank\">contacting Polldaddy "
+"team</a> for support."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:405
+msgid "BWP Polldaddy"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:417
+msgid "Clear cached Polls"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:461
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:481
+msgid "Polldaddy API key"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:490
+#, php-format
+msgid ""
+"In order to get and display polls from Polldaddy you need a valid pair of "
+"<strong>API key</strong> and <strong>UserCode</strong>.<br />A free API key "
+"can be registered <a href=\"%s\" target=\"_blank\">on Polldaddy's website</"
+"a>.<br />To get a UserCode, enter your API key and press the \"Get UserCode"
+"\" button below."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:501
+msgid "Get UserCode"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:517
+msgid "PollDaddy Settings"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:518
+msgid "PollDaddy API key"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:519
+msgid "PollDaddy UserCode"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:520
+msgid "Enable SSL for Poll Contents"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:521
+msgid "Plugin Functionality"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:522
+msgid "Automatically update polls?"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:523
+msgid "Update polls every"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:524
+msgid "Poll Stats"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:538
+msgid "Customize PollDaddy-related settings here."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:541
+msgid "Control how this plugin should operate."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:544
+msgid "Some PollDaddy Polls stats for your site."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:549 includes/class-bwp-polldaddy.php:832
+msgid "second(s)"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:550 includes/class-bwp-polldaddy.php:829
+msgid "minute(s)"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:551 includes/class-bwp-polldaddy.php:822
+msgid "hour(s)"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:552
+msgid "day(s)"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:556
+msgid ""
+"If you rarely edit or add new polls, you might want to disable this and "
+"update your polls manually instead."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:559
+#, php-format
+msgid ""
+"Only enable this setting if you have a paid Polldaddy account. More info <a "
+"href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:566
+#, php-format
+msgid "You can register for a different API key <a href=\"%s\">here</a>."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:574
+msgid ""
+"UserCode is automatically retrieved from Polldaddy, based on provided API "
+"key.<br />If you update your API key, make sure that you press \"Get new "
+"UserCode\" to update your UserCode as well."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:581
+msgid "&mdash;"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:585
+msgid "Note"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:586
+msgid ""
+"Requesting data from Polldaddy&#8217;s API server can be slow. It is "
+"therefore recommended that you set the update interval to at least 12 hours."
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:600
+msgid "Get new UserCode"
+msgstr ""
+
+#: includes/class-bwp-polldaddy.php:690
+msgid "All options have been saved."
+msgstr ""
