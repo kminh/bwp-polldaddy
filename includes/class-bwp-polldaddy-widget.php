@@ -1,15 +1,16 @@
 <?php
+
 /**
- * Copyright (c) 2014 Khang Minh <betterwp.net>
+ * Copyright (c) 2015 Khang Minh <betterwp.net>
  * @license http://www.gnu.org/licenses/gpl.html GNU GENERAL PUBLIC LICENSE VERSION 3.0 OR LATER
  */
 
 /**
  * BWP Polldaddy Widget Class
  */
-class BWP_PollDaddy_Widget extends WP_Widget
+class BWP_Polldaddy_Widget extends WP_Widget
 {
-	function BWP_PollDaddy_Widget()
+	function BWP_Polldaddy_Widget()
 	{
 		$widget_ops = array(
 			'classname' => 'bwp-polldaddy-widget',
@@ -99,9 +100,4 @@ class BWP_PollDaddy_Widget extends WP_Widget
 		</div>
 <?php
 	}
-}
-
-function bwp_polldaddy_register_widget()
-{
-	register_widget('BWP_PollDaddy_Widget');
 }
